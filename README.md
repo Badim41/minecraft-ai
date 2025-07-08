@@ -10,14 +10,12 @@ This is a fork of the original [minecraft-ai](https://github.com/aeromechanic000
 Это явно того стоит. Для сравнения скриншоты:
 
 #### Плагин BrowserView (prismarine-viewer):
-<p align="center">
-  <img src="https://github.com/Badim41/minecraft-ai/blob/master/screenshots/prismarine-viewer.png?raw=true" width="450px" height="300px"/>
-</p>
+
+![Prismarine Viewer](https://github.com/Badim41/minecraft-ai/blob/master/screenshots/prismarine-viewer.png?raw=true)
 
 #### Клиент + Мод SpectatorPlus:
-<p align="center">
-  <img src="https://github.com/Badim41/minecraft-ai/blob/master/screenshots/spectatorplus.png?raw=true" width="450px" height="300px"/>
-</p>
+
+![SpectatorPlus](https://github.com/Badim41/minecraft-ai/blob/master/screenshots/spectatorplus.png?raw=true)
 
 Также для удобства [Skin Restorer](https://modrinth.com/mod/skinrestorer/versions) и [Fabric API](https://modrinth.com/mod/fabric-api/version/0.91.2+1.20.4)
 
