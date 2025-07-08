@@ -1,0 +1,11 @@
+{
+    "name": "Daisy",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/catwoman.png"
+    },
+    "model": {
+        "api" : "doubao",
+        "model" : "deepseek-v3-250324"
+    }
+}

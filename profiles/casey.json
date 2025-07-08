@@ -1,0 +1,11 @@
+{
+    "name": "Casey",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/captain_america.png"
+    },
+    "model": {
+        "api" : "openrouter",
+        "model" : "openrouter/anthropic/claude-3.7-sonnet"
+    }
+}

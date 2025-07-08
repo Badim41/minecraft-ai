@@ -1,0 +1,15 @@
+{
+    "name": "Dobson",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/batman.png"
+    },
+    "model" : {
+        "api" : "doubao",
+        "model": "doubao-1-5-pro-32k-250115"
+    },
+    "vision_model" : {
+        "api" : "doubao",
+        "model": "doubao-1-5-vision-pro-32k-250115"
+    }
+}

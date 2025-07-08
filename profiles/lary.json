@@ -1,0 +1,11 @@
+{
+    "name": "Lary",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/loki.png"
+    },
+    "model" : {
+        "api" : "pollinations",
+        "model": "llama"
+    }
+}

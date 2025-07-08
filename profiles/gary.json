@@ -1,0 +1,11 @@
+{
+    "name": "Gary",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/ironman.png"
+    },
+    "model" : {
+        "api" : "openrouter",
+        "model": "openrouter/x-ai/grok-3-mini-beta"
+    }
+}

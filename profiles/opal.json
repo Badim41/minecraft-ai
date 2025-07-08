@@ -1,0 +1,11 @@
+{
+    "name": "Opal",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/superman.png"
+    },
+    "model" : {
+        "api" : "pollinations",
+        "model": "llama"
+    }
+}

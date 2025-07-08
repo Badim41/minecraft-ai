@@ -1,0 +1,11 @@
+{
+    "name": "Wade",
+    "skin": {
+        "model" : "classic",
+        "file" : "/Users/nil/Projects/minecraft-ai/skins/flash.png"
+    },
+    "model": {
+        "api" : "qwen",
+        "model" : "qwen-max"
+    }
+}

@@ -1,0 +1,12 @@
+Cannot apply hunk 0 for file node_modules\@google\generative-ai\dist\index.mjs
+```diff
+@@ -151,7 +151,7 @@ class GoogleGenerativeAIResponseError extends GoogleGenerativeAIError {
+  * limitations under the License.
+  */
+ const BASE_URL = "https://generativelanguage.googleapis.com";
+-const API_VERSION = "v1";
++const API_VERSION = "v1beta";
+ /**
+  * We can't `require` package.json if this runs on web. We will use rollup to
+  * swap in the version number here at build time.
+```
